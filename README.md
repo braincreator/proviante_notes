@@ -19,13 +19,17 @@
 
 ## Скриншоты (Screenshots)
 
-*(Рекомендуется добавить сюда скриншоты приложения, включая темную тему)*
+<img src="https://github.com/user-attachments/assets/c49c4d4e-681b-4feb-9959-3b16f122527e" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/761e90ff-0ffb-4633-b034-9f8cbfd854c1" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/b3af1c79-e7c4-43a7-b58d-cfa447bcc1ae" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/2ed2674d-9367-4cb8-98b7-0fe47bfc97ad" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/08817e22-122b-4043-be18-7fd4ca5094f7" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/7410aee5-dccd-4012-a370-b56406a9fc69" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/417e45bd-26ef-40c2-b2a3-da39dfafac02" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/8fec2238-836b-44dd-b777-d715ab6b78ad" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/8f301b35-a015-41ee-b76a-a073571243c6" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/b7bddd82-a3bf-4fa0-be3a-10286ea16058" width=30% height=30%>
 
-```
-[Вставьте скриншот 1 здесь]
-[Вставьте скриншот 2 здесь]
-...
-```
 
 ## Технологии (Technologies Used)
 
