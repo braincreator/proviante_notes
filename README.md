@@ -21,7 +21,7 @@
 
 *(Рекомендуется добавить сюда скриншоты приложения, включая темную тему)*
 
-```
+
 ![IMG_7022](https://github.com/user-attachments/assets/c49c4d4e-681b-4feb-9959-3b16f122527e)
 ![IMG_7023](https://github.com/user-attachments/assets/761e90ff-0ffb-4633-b034-9f8cbfd854c1)
 ![IMG_7024](https://github.com/user-attachments/assets/b3af1c79-e7c4-43a7-b58d-cfa447bcc1ae)
@@ -32,8 +32,6 @@
 ![IMG_7029](https://github.com/user-attachments/assets/8fec2238-836b-44dd-b777-d715ab6b78ad)
 ![IMG_7030](https://github.com/user-attachments/assets/8f301b35-a015-41ee-b76a-a073571243c6)
 ![IMG_7031](https://github.com/user-attachments/assets/b7bddd82-a3bf-4fa0-be3a-10286ea16058)
-...
-```
 
 ## Технологии (Technologies Used)
 
