@@ -1,0 +1,66 @@
+{
+  "notes_list_title": "Notes",
+  "notes_list_empty": "No notes yet. Add one!",
+  "notes_list_error": "Error loading notes: {message}",
+  "notes_list_deleted": "Note \"{title}\" deleted",
+  "notes_list_add_tooltip": "Add Note",
+  "note_edit_new_title": "New Note",
+  "note_edit_edit_title": "Edit Note",
+  "note_edit_title_label": "Title",
+  "note_edit_text_label": "Note Text",
+  "note_edit_save_tooltip": "Save Note",
+  "note_edit_saving": "Saving...",
+  "note_edit_save_error": "Error saving note: {message}",
+  "note_edit_back_confirm": "Discard changes?",
+  "cancel": "Cancel",
+  "discard": "Discard",
+  "note_saved_success": "Note saved successfully",
+  "title_cannot_be_empty": "Title cannot be empty",
+  "undo": "UNDO",
+  "notesList": {
+    "title": "Notes",
+    "empty": {
+      "title": "No notes yet.",
+      "message": "Tap the + button to add your first note."
+    },
+    "search": {
+      "hint": "Search notes...",
+      "clearTooltip": "Clear search",
+      "noResults": "No notes found matching your search."
+    },
+    "sort": {
+      "tooltip": "Sort notes"
+    },
+    "sortOptions": {
+      "dateCreatedDesc": "Date Created (Newest First)",
+      "dateCreatedAsc": "Date Created (Oldest First)",
+      "dateModifiedDesc": "Date Modified (Newest First)",
+      "dateModifiedAsc": "Date Modified (Oldest First)",
+      "titleAsc": "Title (A-Z)",
+      "titleDesc": "Title (Z-A)"
+    }
+  },
+  "noteEdit": {
+    "title": {
+      "new": "New Note",
+      "edit": "Edit Note"
+    },
+    "placeholder": {
+      "title": "Title",
+      "content": "Note content..."
+    },
+    "error": {
+      "duplicateTitle": "A note with this title already exists.",
+      "emptyTitle": "Title cannot be empty."
+    },
+    "deleteConfirmTitle": "Delete Note?",
+    "deleteConfirmAction": "Delete Note"
+  },
+  "common": {
+    "save": "Save",
+    "delete": "Delete",
+    "cancel": "Cancel"
+  },
+  "note_delete_confirm_title": "Delete Note?",
+  "note_delete_confirm_body": "Are you sure you want to delete this note?"
+}

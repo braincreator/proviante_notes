@@ -1,0 +1,66 @@
+{
+  "notes_list_title": "Заметки",
+  "notes_list_empty": "Заметок пока нет. Добавьте одну!",
+  "notes_list_error": "Ошибка загрузки заметок: {message}",
+  "notes_list_deleted": "Заметка \"{title}\" удалена",
+  "notes_list_add_tooltip": "Добавить заметку",
+  "note_edit_new_title": "Новая заметка",
+  "note_edit_edit_title": "Редактировать заметку",
+  "note_edit_title_label": "Заголовок",
+  "note_edit_text_label": "Текст заметки",
+  "note_edit_save_tooltip": "Сохранить заметку",
+  "note_edit_saving": "Сохранение...",
+  "note_edit_save_error": "Ошибка сохранения заметки: {message}",
+  "note_edit_back_confirm": "Отменить изменения?",
+  "cancel": "Отмена",
+  "discard": "Отменить",
+  "note_saved_success": "Заметка успешно сохранена",
+  "title_cannot_be_empty": "Заголовок не может быть пустым",
+  "undo": "ОТМЕНИТЬ",
+  "notesList": {
+    "title": "Заметки",
+    "empty": {
+      "title": "Заметок пока нет.",
+      "message": "Нажмите кнопку +, чтобы добавить первую заметку."
+    },
+    "search": {
+      "hint": "Поиск заметок...",
+      "clearTooltip": "Очистить поиск",
+      "noResults": "Заметок по вашему запросу не найдено."
+    },
+    "sort": {
+      "tooltip": "Сортировать заметки"
+    },
+    "sortOptions": {
+      "dateCreatedDesc": "Дата создания (Сначала новые)",
+      "dateCreatedAsc": "Дата создания (Сначала старые)",
+      "dateModifiedDesc": "Дата изменения (Сначала новые)",
+      "dateModifiedAsc": "Дата изменения (Сначала старые)",
+      "titleAsc": "Заголовок (А-Я)",
+      "titleDesc": "Заголовок (Я-А)"
+    }
+  },
+  "noteEdit": {
+    "title": {
+      "new": "Новая заметка",
+      "edit": "Редактировать заметку"
+    },
+    "placeholder": {
+      "title": "Заголовок",
+      "content": "Содержимое заметки..."
+    },
+    "error": {
+      "duplicateTitle": "Заметка с таким заголовком уже существует.",
+      "emptyTitle": "Заголовок не может быть пустым."
+    },
+    "deleteConfirmTitle": "Удалить заметку?",
+    "deleteConfirmAction": "Удалить заметку"
+  },
+  "common": {
+    "save": "Сохранить",
+    "delete": "Удалить",
+    "cancel": "Отмена"
+  },
+  "note_delete_confirm_title": "Удалить заметку?",
+  "note_delete_confirm_body": "Вы уверены, что хотите удалить эту заметку?"
+}
