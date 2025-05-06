@@ -4,7 +4,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_animate/flutter_animate.dart'; // Import flutter_animate
 import '../../../domain/entities/note.dart';
 import '../bloc/notes_list_bloc.dart'; // For events
-import '../../../core/utils/snackbar_utils.dart'; // Import global key
 
 // Renamed from _NoteListItem and made public
 class NoteListItem extends StatelessWidget {
@@ -72,7 +71,7 @@ class NoteListItem extends StatelessWidget {
                             ?.color
                             ?.withAlpha((255 * 0.7).round()),
                       ),
-                  maxLines: 2, // Limit lines for preview
+                  maxLines: 5, // Limit lines for preview
                   overflow: TextOverflow.ellipsis,
                 ),
                 const SizedBox(height: 8), // Spacing
